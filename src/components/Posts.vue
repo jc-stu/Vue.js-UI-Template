@@ -36,7 +36,7 @@
           ></HeaderImage>
         </v-lazy>
         <v-card-text class="white--text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          这是一条示例博文
         </v-card-text>
 
         <v-card-actions>
@@ -54,12 +54,6 @@
             <v-icon>mdi-share-variant</v-icon>
           </v-btn>
         </v-card-actions>
-        <v-card-text class="white--text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil
-          cupiditate placeat rerum soluta illo ab temporibus sed? Ratione
-          suscipit ducimus dolores architecto vel inventore consectetur, facere
-          possimus, accusantium nulla quod.
-        </v-card-text>
       </v-card>
     </v-col>
   </v-row>

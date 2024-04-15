@@ -13,7 +13,7 @@
         {{ link }}
       </v-btn>
       <v-col class="py-4 text-center white--text" cols="12">
-        {{ new Date().getFullYear() }} — <strong>Anthony Salemo</strong>
+        {{ new Date().getFullYear() }} — <strong>姜川 & 罗珺中</strong>
       </v-col>
     </v-row>
   </v-footer>

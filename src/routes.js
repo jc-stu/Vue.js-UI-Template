@@ -3,7 +3,6 @@ import VueRouter from "vue-router";
 import About from "./views/About.vue";
 import App from "./views/App.vue";
 import Blog from "./views/Blog.vue";
-import Buildings from "./views/Buildings.vue";
 import Contact from "./views/Contact.vue";
 
 const routes = [
@@ -11,7 +10,6 @@ const routes = [
   { path: "/Home", name: "Home", component: App },
   { path: "/About", name: "About", component: About },
   { path: "/Blog", name: "Blog", component: Blog },
-  { path: "/Buildings", name: "Buildings", component: Buildings },
   { path: "/Contact", name: "Contact", component: Contact },
 ];
 

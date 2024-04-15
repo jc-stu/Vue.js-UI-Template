@@ -13,7 +13,7 @@
           alt="Landing page"
           height="100vh"
         >
-          <Header header_text_one="Modern" header_text_two="Architecture" />
+          <Header header_text_one="Simple" header_text_two="Blog" />
         </HeaderImage>
       </v-lazy>
     </v-container>

@@ -2,20 +2,12 @@
   <v-container fluid>
     <v-row class="about-card-container">
       <AboutCard
-        title_text="Core Values"
-        body_text="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia sunt cupiditate dicta debitis. Accusantium, consequuntur quas vero maxime voluptas numquam cumque officiis eum ex quo dolorum, ratione repudiandae aut facere?"
+        title_text="关于本博客"
+        body_text="基于大前端的博客系统，使用Vue构建"
       />
       <AboutCard
-        title_text="Culture"
-        body_text="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia sunt cupiditate dicta debitis. Accusantium, consequuntur quas vero maxime voluptas numquam cumque officiis eum ex quo dolorum, ratione repudiandae aut facere?"
-      />
-      <AboutCard
-        title_text="Quality"
-        body_text="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia sunt cupiditate dicta debitis. Accusantium, consequuntur quas vero maxime voluptas numquam cumque officiis eum ex quo dolorum, ratione repudiandae aut facere?"
-      />
-      <AboutCard
-        title_text="Message"
-        body_text="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia sunt cupiditate dicta debitis. Accusantium, consequuntur quas vero maxime voluptas numquam cumque officiis eum ex quo dolorum, ratione repudiandae aut facere?"
+        title_text="小组成员"
+        body_text="姜川    罗珺中"
       />
     </v-row>
   </v-container>
